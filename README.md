@@ -1,2 +1,2 @@
-# tictactou
-test
+# TicTacToe
+This is a demo project.
